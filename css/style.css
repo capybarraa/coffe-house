@@ -9,7 +9,7 @@ body{
 .main_img{
     width: 100%;
     height: 812px;
-    background: url(images/img1.jpg), lightgray 50% / cover no-repeat;
+    background: url(../images/img1.jpg), lightgray 50% / cover no-repeat;
     background-size: cover; 
     display: flex;
     align-items: center;
